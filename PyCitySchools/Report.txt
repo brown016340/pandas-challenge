@@ -1,9 +1,16 @@
-PyCitySchools provides various levels of analysis on collected data from a given school district. First tho code will create an overarching view of the district by creating a frame that contains the numbe of schools, number of students, the total budget, average math score, average reading, the percent passing reading , the percent passing math, and the overall percent passing both math and reading.
+PyCitySchools provides various levels of analysis on collected data from a given school district. First the code will create an overarching view of
+the district by creating a frame that contains the numbe of schools, number of students, the total budget, average math score, average reading, 
+the percent passing reading , the percent passing math, and the overall percent passing both math and reading.
 
-Afterwards a school summary dataframe ir created which compares the school type, total students, total school budget, per student budget, average math score, average reading score, percent passing math, percent passing reading, and the percentpassing both math and reading of each school.
+Afterwards a school summary dataframe ir created which compares the school type, total students, total school budget, per student budget, average 
+math score, average reading score, percent passing math, percent passing reading, and the percent passing both math and reading of each school.
 
-It the sort and then displays the top five schools by overall passing rate. As well as the bottom five schools. It further breaks out the math and reading score by grade.
+It the sort and then displays the top five schools by overall passing rate. As well as the bottom five schools. It further breaks out the math and 
+reading score by grade.
 
-After this three frames are created that group the schools in various factors, spending, type, and size, which are used to compare the average scores and passing rates.
+After this three frames are created that group the schools in various factors, spending, type, and size, which are used to compare the average 
+scores and passing rates.
 
-With this information it can be stated that schools that have a lower budget per student perform better than schools with a higher budget. By size small and medium schools perform similarly yet large schools perform significantly worse. Also charter schools perform  much better than a district school.
+With this information it can be stated that schools that have a lower budget per student perform better than schools with a higher budget. By size 
+small and medium schools perform similarly yet large schools perform significantly worse. Also charter schools perform  much better than a district 
+school.
